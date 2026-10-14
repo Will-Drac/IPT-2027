@@ -11,25 +11,14 @@ $$
 $$
 where $\omega_0$ is the natural frequency of the pendulum, and the $\pm$ stands for $\theta_e=0$ and $\theta_e=\pi$, respectively. In particular, if the driving frequency $\omega^{-1}, a << 1$  and $\frac{a\omega}{l} \sim \omega_0$ we have dynamic stable equilibrium about $\theta_e = 0, \pi$.
 
+# Research variables
+The Project sets out to comfirm the theory. In particular, varying the parameters $a, \omega, l$ (drive amplitude, frequency, length of pendulum) and comfirming the conditions under which they guarantee dynamic stability. Initla conditions (angle, velocity) may be vaired and the orbits which follow compared against the expected phase diagrams. The pendulum mass and in particular mass distribution may be varied. The noise spectrum of the dirving force may be observed. Finally, double (even triple) kapitza pendulum's may be experimented with. 
 
 
-
-# Background information
-    - ODE's stability theory : regular pendulum, unstable equilibrium (inverted pozition)
-    - ODE's stability thoery : kapitza pendulum, stable equilibrium  (inverted position)
-
-    - why does it happen? FBD , lagrangian, eigenvalues etc...
-# Research Variables
-    - motor speed
-    - orbit 
-    - noise spectrum of driving force (fourrier series)
-    - length / mass distribution (moment inertia)
-    - Initial conditions (angle, velocity)
-    - double, triple pendulum ?
 # Experimental setup
-    - bearings
-    - makerspace: plastic pendulum
-    - arduino / stepper motor
-    - stable table
-    - C-clamps
-    - rod
+- bearings
+- makerspace: plastic pendulum
+- arduino / stepper motor
+- stable table
+- C-clamps
+- rod
