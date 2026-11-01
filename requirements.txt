@@ -4,3 +4,8 @@ sympy
 ipykernel
 scipy
 ipympl
+
+scikit-image
+plotly
+
+warp-lang
